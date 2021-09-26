@@ -2,7 +2,7 @@
 a) T (n) = 3T (n/2) + n
 
   Solution as per case 3
-  Θ(n^log 2 [base 3])
+  Θ(n^log 3 [base 2])
 
 b) T (n) = 64T (n/8) − n^2(log n)
 
